@@ -3,6 +3,6 @@
 
 
 
-    bruh ikke hver sånn a 
+    bruh ikke hver 
 
     
