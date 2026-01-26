@@ -1,1 +1,4 @@
-if (int i = 1);
+int main ()
+{
+    
+}
