@@ -879,6 +879,16 @@
 			(embedded_fonts no)
 		)
 	)
+	(text "Dette er en test av githubby\n"
+		(exclude_from_sim no)
+		(at 155.702 95.25 0)
+		(effects
+			(font
+				(size 5.08 5.08)
+			)
+		)
+		(uuid "2c50ce4c-d56b-4dd3-8d85-a4e009fd1a70")
+	)
 	(symbol
 		(lib_id "Connector:USB_C_Plug")
 		(at 30.48 53.34 0)
